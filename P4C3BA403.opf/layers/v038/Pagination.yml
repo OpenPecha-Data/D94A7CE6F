@@ -515,12 +515,12 @@ annotations:
     reference: ''
     span:
       start: 95529
-      end: 97292
+      end: 97303
   848474a5704849edbad93f43ce10e08c:
     imgnum: 905
     reference: ''
     span:
-      start: 97294
+      start: 97305
       end: 97994
 local_ids:
   30a19a04dd08473997ca6124ea2c8756: 200000
